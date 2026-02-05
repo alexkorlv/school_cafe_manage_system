@@ -43,3 +43,5 @@
 
 ### 1. Клонирование репозитория
 ```bash
+git clone https://github.com/alexkorlv/school_cafe_manage_system.git
+cd school-cafe
